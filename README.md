@@ -1,0 +1,2 @@
+# STM32-I2C-LCD
+I2C LCD interfacing with STM32 NUCLEO-F401RE using STM32CubeIDE and HAL.
