@@ -27,7 +27,7 @@ The project was developed using **STM32CubeIDE** and **STM32CubeMX configuration
 ---
 ## Circuit Diagram
 
-<img width="1065" height="904" alt="image" src="https://github.com/user-attachments/assets/a1007aa9-2833-476a-8e31-b7c3de4e0913" />
+<img width="1065" height="704" alt="image" src="https://github.com/user-attachments/assets/a1007aa9-2833-476a-8e31-b7c3de4e0913" />
 
 
 ## ⚙️ Software & Tools
